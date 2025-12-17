@@ -1,6 +1,6 @@
-# smart_video_downloader
+# Multi APP(smart_video_downloader)
 
-A new Flutter project.
+A new Flutter project, an application containing a smaller application, including smart_video_downloader
 
 ## Getting Started
 
